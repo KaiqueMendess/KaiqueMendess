@@ -6,6 +6,7 @@
 <mask id="mask0_61385_101" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="541" y="140" width="358" height="540">
 <rect x="541" y="140" width="358" height="540" fill="#202024"/>
 </mask>
+  
 <g mask="url(#mask0_61385_101)">
 <path d="M899 201.492V-256.824L719.5 -360L540 -256.824V201.492L719.5 304.674L899 201.492Z" fill="url(#paint2_linear_61385_101)"/>
 <g style="mix-blend-mode:luminosity" opacity="0.4">
