@@ -19,3 +19,9 @@ Veja o jogo da cobrinha movendo-se pelo meu gráfico de contribuições no GitHu
 ---
 
 ⭐️ Deixe uma estrela em alguns dos meus repositórios se você gostar do meu trabalho!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
