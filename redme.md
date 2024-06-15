@@ -14,7 +14,7 @@
 
 Veja o jogo da cobrinha movendo-se pelo meu gráfico de contribuições no GitHub:
 
-![Snake animation](https://github.com/KaiqueMendess/KaiqueMendess/blob/main/update-readme.yml)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
