@@ -3,15 +3,10 @@
 ## 📊 Estatísticas do GitHub de Kaique Mendes
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueMendess&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-## 🐍 Jogo da Cobrinha
-
 ![snake gif](https://github.com/KaiqueMendess/KaiqueMendess/blob/output/github-contribution-grid-snake.svg)
-Veja o jogo da cobrinha movendo-se pelo meu gráfico de contribuições no GitHub:
 
 ---
-
 ⭐️ Deixe uma estrela em alguns dos meus repositórios se você gostar do meu trabalho!
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
