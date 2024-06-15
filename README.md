@@ -5,6 +5,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueMendess&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ## 🐍 Jogo da Cobrinha
 
+![snake gif](https://github.com/KaiqueMendess/KaiqueMendess/blob/output/github-contribution-grid-snake.svg)
 Veja o jogo da cobrinha movendo-se pelo meu gráfico de contribuições no GitHub:
 
 ---
