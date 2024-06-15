@@ -14,6 +14,22 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&theme=dark)](https://github.com/KaiqueMendess/github-readme-stats)
 
+## 🚀 Projetos em Destaque
+
+- [Projeto 1](https://github.com/KaiqueMendess/projeto-1): Descrição curta do projeto.
+- [Projeto 2](https://github.com/KaiqueMendess/projeto-2): Descrição curta do projeto.
+- [Projeto 3](https://github.com/KaiqueMendess/projeto-3): Descrição curta do projeto.
+
+- ██▓▒░░░░░░░░░░░░░░
+░▓▒░░░░░░░░░░░░░░░
+░░▓▒░░░░░░░░░░░░░░
+░░░▓▒░░░░░░░░░░░░░
+░░░░▓▒░░░░░░░░░░░░
+░░░░░▓▒░░░░░░░░░░░
+░░░░░░▓▒░░░░░░░░░░
+░░░░░░░▓▒░░░
+
 ---
 
 ⭐️ Deixe uma estrela em alguns dos meus repositórios se você gostar do meu trabalho!
+****
