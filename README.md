@@ -7,8 +7,6 @@
 
 Veja o jogo da cobrinha movendo-se pelo meu gráfico de contribuições no GitHub:
 
-![snake gif](https://github.com/KaiqueMendess/KaiqueMendess/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ⭐️ Deixe uma estrela em alguns dos meus repositórios se você gostar do meu trabalho!
