@@ -1,37 +1,19 @@
-# Olá! Eu sou o Sam Morozov 👋
+# Olá! Eu sou o Kaique Mendes 👋
 
-## 📊 Estatísticas do GitHub de Sam Morozov
+## 📊 Estatísticas do GitHub de Kaique Mendes
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamMorozov&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamMorozov&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-- **Contribuições Totais**: 8,376
-- **Contribuições Atuais**: 7 (de 9 Jun a 15 Jun)
-- **Maior Sequência de Contribuições**: 16 (de 13 Mar a 28 Mar)
-
-## 🚀 Minhas Estatísticas no GitHub
-
-- **Total de Estrelas Ganhadas**: 577
-- **Total de Commits (2024)**: 8.3k
-- **Total de PRs (Pull Requests)**: 10
-- **Total de Issues**: 3
-- **Contribuições no Último Ano**: 3
+- **Total de Estrelas Ganhadas**: ![GitHub Stars](https://img.shields.io/github/stars/SamMorozov?style=social)
+- **Total de Commits**: ![GitHub Commits](https://img.shields.io/github/commit-activity/y/SamMorozov)
+- **Total de PRs (Pull Requests)**: ![GitHub PRs](https://img.shields.io/github/issues-pr/SamMorozov?style=social)
+- **Total de Issues**: ![GitHub Issues](https://img.shields.io/github/issues/SamMorozov?style=social)
+- **Contribuições no Último Ano**: ![GitHub Contributions](https://img.shields.io/github/contributors/SamMorozov?style=social)
 
 ## 💻 Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamMorozov&layout=compact&theme=dark)](https://github.com/SamMorozov)
-
-- **Jupyter Notebook**: 23.01%
-- **Python**: 17.83%
-- **Solidity**: 17.81%
-- **JavaScript**: 15.76%
-- **Go**: 12.80%
-- **C**: 12.80%
-
-## 🌟 Perfil
-
-- **Visualizações de Perfil**: 185,801
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamMorozov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ⭐️ Deixe uma estrela em alguns dos meus repositórios se você gostar do meu trabalho!
-
