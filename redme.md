@@ -15,12 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&theme=dark)](https://github.com/KaiqueMendess/github-readme-stats)
 
 ---
-
-██▓▒░░░░░░░░░░░░░░
-░▓▒░░░░░░░░░░░░░░░
-░░▓▒░░░░░░░░░░░░░░
-░░░▓▒░░░░░░░░░░░░░
-░░░░▓▒░░░░░░░░░░░░
-░░░░░▓▒░░░░░░░░░░░
-░░░░░░▓▒░░░░░░░░░░
-░░░░░░░▓▒░░
+              - nome: gerar-jogo-snake-from-github-contribution-grid
+                usos: Platane/snk@v3.2.0
+            
