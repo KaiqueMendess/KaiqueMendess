@@ -10,8 +10,12 @@
 - **Total de Issues**: ![GitHub Issues](https://img.shields.io/github/issues/KaiqueMendess?style=social)
 - **Contribuições no Último Ano**: ![GitHub Contributions](https://img.shields.io/github/contributors/KaiqueMendess?style=social)
 
-## 💻 Linguagens Mais Usadas
+## 🐍 Jogo da Cobrinha
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&theme=dark)](https://github.com/KaiqueMendess/github-readme-stats)
+Veja o jogo da cobrinha movendo-se pelo meu gráfico de contribuições no GitHub:
+
+![Snake animation](https://github.com/KaiqueMendess/KaiqueMendess/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+⭐️ Deixe uma estrela em alguns dos meus repositórios se você gostar do meu trabalho!
