@@ -1,0 +1,96 @@
+import requests
+
+# Seu token de acesso pessoal do GitHub
+token = "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"
+username = "KaiqueMendess"
+
+# Cabeçalhos para a solicitação com autenticação
+headers = {
+    "Authorization": f"Bearer {token}",
+    "Accept": "application/vnd.github.v3+json"
+}
+
+# URLs da API do GitHub
+user_url = f"https://api.github.com/users/{username}"
+repos_url = f"https://api.github.com/users/{username}/repos"
+
+# Função para obter contagem de estrelas
+def get_total_stars():
+    total_stars = 0
+    repos_response = requests.get(repos_url, headers=headers)
+    if repos_response.status_code == 200:
+        repos = repos_response.json()
+        for repo in repos:
+            total_stars += repo['stargazers_count']
+    return total_stars
+
+# Obter informações do usuário
+user_response = requests.get(user_url, headers=headers)
+if user_response.status_code == 200:
+    user_info = user_response.json()
+else:
+    print(f"Falha ao obter informações do usuário: {user_response.status_code}")
+    print(user_response.json())
+
+# Obter repositórios do usuário
+repos_response = requests.get(repos_url, headers=headers)
+if repos_response.status_code == 200:
+    repos = repos_response.json()
+    total_commits = 0
+    total_prs = 0
+    total_issues = 0
+
+    for repo in repos:
+        repo_name = repo['name']
+        repo_owner = repo['owner']['login']
+        
+        # Obter commits
+        commits_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/commits?author={username}"
+        commits_response = requests.get(commits_url, headers=headers)
+        if commits_response.status_code == 200:
+            commits = commits_response.json()
+            total_commits += len(commits)
+        
+        # Obter pull requests
+        prs_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/pulls?state=all&author={username}"
+        prs_response = requests.get(prs_url, headers=headers)
+        if prs_response.status_code == 200:
+            prs = prs_response.json()
+            total_prs += len(prs)
+        
+        # Obter issues
+        issues_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/issues?state=all&creator={username}"
+        issues_response = requests.get(issues_url, headers=headers)
+        if issues_response.status_code == 200:
+            issues = issues_response.json()
+            total_issues += len(issues)
+else:
+    print(f"Falha ao obter repositórios do usuário: {repos_response.status_code}")
+    print(repos_response.json())
+
+# Criar o conteúdo do README.md
+readme_content = f"""
+# Olá! Eu sou o Kaique Mendes 👋
+
+## 📊 Estatísticas do GitHub de Kaique Mendes
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueMendess&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+- **Total de Estrelas Ganhadas**: {get_total_stars()}
+- **Total de Commits**: {total_commits}
+- **Total de PRs (Pull Requests)**: {total_prs}
+- **Total de Issues**: {total_issues}
+- **Contribuições no Último Ano**: ![GitHub Contributions](https://img.shields.io/github/contributors/KaiqueMendess?style=social)
+
+## 💻 Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&theme=dark)](https://github.com/KaiqueMendess/github-readme-stats)
+
+---
+
+⭐️ Deixe uma estrela em alguns dos meus repositórios se você gostar do meu trabalho!
+"""
+
+# Escrever o conteúdo no README.md
+with open("README.md", "w", encoding="utf-8") as readme_file:
+    readme_file.write(readme_content)
