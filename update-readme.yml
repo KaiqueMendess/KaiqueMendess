@@ -35,3 +35,6 @@ jobs:
           git add README.md
           git commit -m "Update README with latest stats" || exit 0
           git push
+              - nome: gerar-jogo-snake-from-github-contribution-grid
+                usos: Platane/snk@v3.2.0
+            
