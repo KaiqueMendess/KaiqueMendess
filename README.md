@@ -25,7 +25,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
 
 - [Certificado 1](https://dio.me/certificate/4B7454D7/share): Certificado De Desenvolvedor WEB .
 - [Certificado 2](https://dio.me/certificate/8C8F1DE2/share): Certificado De Desenvolvimentos De Jogos WEB Usando HTML/CSS/Javascript
-- [Conquista 1](https://dio.me/certificate/WHPI0PW5/share): Aprendendo a desenvolver sistema com Python.
+- [Certificado 3](https://dio.me/certificate/WHPI0PW5/share): Aprendendo a desenvolver sistema com Python.
 
 ## 📚 Linguagens e Ferramentas
 
