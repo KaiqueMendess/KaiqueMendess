@@ -31,55 +31,12 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
 
 ### Linguagens:
 <p>
-  <img src="URL_PYTHON" alt="Python" width="40" height="40"/>
-  <img src="URL_C" alt="C" width="40" height="40"/>
-  <img src="URL_JS" alt="JavaScript" width="40" height="40"/>
-  <img src="URL_SOLIDITY" alt="Solidity" width="40" height="40"/>
-  <img src="URL_GO" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 </p>
-
-### Principais Frameworks e Bibliotecas para Python:
-<p>
-  <img src="URL_PYTORCH" alt="Pytorch" width="40" height="40"/>
-  <img src="URL_SELENIUM" alt="Selenium" width="40" height="40"/>
-  <img src="URL_NUMPY" alt="Numpy" width="40" height="40"/>
-  <img src="URL_PANDAS" alt="Pandas" width="40" height="40"/>
-  <img src="URL_SKLEARN" alt="Sklearn" width="40" height="40"/>
-  <img src="URL_MATPLOTLIB" alt="Matplotlib" width="40" height="40"/>
-  <img src="URL_OPENCV" alt="OpenCV" width="40" height="40"/>
-</p>
-
-### Ferramentas para Manipulação de Dados:
-<p>
-  <img src="URL_CONDA" alt="Conda" width="40" height="40"/>
-  <img src="URL_JUPYTER" alt="Jupyter" width="40" height="40"/>
-  <img src="URL_SPARK" alt="Spark" width="40" height="40"/>
-  <img src="URL_MYSQL" alt="MySQL" width="40" height="40"/>
-  <img src="URL_POSTGRES" alt="Postgres" width="40" height="40"/>
-  <img src="URL_SQLITE" alt="SQLite" width="40" height="40"/>
-</p>
-
-### Ambientes, Testes, Outros:
-<p>
-  <img src="URL_NODEJS" alt="Node.js" width="40" height="40"/>
-  <img src="URL_GIT" alt="Git" width="40" height="40"/>
-  <img src="URL_DOCKER" alt="Docker" width="40" height="40"/>
-  <img src="URL_PYTEST" alt="Pytest" width="40" height="40"/>
-  <img src="URL_SWAGGER" alt="Swagger" width="40" height="40"/>
-  <img src="URL_POSTMAN" alt="Postman" width="40" height="40"/>
-  <img src="URL_VIRTUALBOX" alt="VirtualBox" width="40" height="40"/>
-  <img src="URL_HARDHAT" alt="HardHat" width="40" height="40"/>
-</p>
-
-### OS:
-<p>
-  <img src="URL_LINUX" alt="Linux" width="40" height="40"/>
-  <img src="URL_UBUNTU" alt="Ubuntu" width="40" height="40"/>
-  <img src="URL_KALI" alt="Kali" width="40" height="40"/>
-</p>
-
-### Ferramentas para CTFs
-<!-- Adicione as ferramentas de CTFs aqui, se necessário -->
 
 ## 📫 Como me Encontrar
 
