@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Kaique Mendes 
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. 
+Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento em varias linguagens e adoro trabalhar com todo tipo de linguagem. Gosto de resolver problemas complexos e criar soluções eficientes e escaláveis.
 
 ## 📊 Estatísticas do GitHub de Kaique Mendes
 
