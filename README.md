@@ -3,12 +3,12 @@
 ## 🚀 Sobre Mim
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento em várias linguagens e adoro trabalhar com todo tipo de linguagem. Gosto de resolver problemas complexos e criar soluções eficientes e escaláveis.
 
-## Card - Minhas Estatisticas No GitHub
+## Minhas Estatisticas No GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiqueMendess&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF).
 
 
 
-## - Linguagens Mais Usadas
+## Linguagens Mais Usadas
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaiqueMendess&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
