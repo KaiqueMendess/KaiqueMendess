@@ -15,9 +15,9 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 
 ## 🌟 Projetos em Destaque
 
-- [Projeto 1](https://github.com/KaiqueMendess/ProjetosKaique/blob/main/BancoDigitalKM.zip): Criação De Um Banco De Dados Usando Java.
-- [Projeto 2](https://github.com/KaiqueMendess/ProjetosKaique/blob/main/Jogo%206%20KM.zip): Criação de Game usando Javascript/CSS e html.
-- [Projeto 3](https://github.com/KaiqueMendess/ProjetosKaique/blob/main/NETFLIX2.zip): Criação Do visual da netflix com sistema de login e cadastro - Feito Com JavaScript/CSS/HTML/PHP.
+- [Projeto 1](https://github.com/KaiqueMendess/Banco_Digital): Criação De Um Banco Digital Em Java Com Funções Como Deposito E Saque.
+- [Projeto 2](https://github.com/KaiqueMendess/Games-Kaique): Criação de Uma interface De Jogos Com Jogos Desenvolvidor por Mim Por meio de HTML,CSS E JAVASCRIPT.
+- [Projeto 3](https://github.com/KaiqueMendess/Netflix-Clone): Criação Do visual da netflix com sistema de login e cadastro - Feito Com JavaScript/CSS/HTML/PHP.
 
 ## 🏆 Certificados e Conquistas
 
