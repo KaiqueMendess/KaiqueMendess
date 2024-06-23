@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Kaique Mendes 
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento em varias linguagens e adoro trabalhar com todo tipo de linguagem. Gosto de resolver problemas complexos e criar soluções eficientes e escaláveis.
+Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento em várias linguagens e adoro trabalhar com todo tipo de linguagem. Gosto de resolver problemas complexos e criar soluções eficientes e escaláveis.
 
 ## 📊 Estatísticas do GitHub de Kaique Mendes
 
@@ -19,12 +19,12 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho e
 
 - [Projeto 1](https://github.com/KaiqueMendess/ProjetosKaique/blob/main/BancoDigitalKM.zip): Criação De Um Banco De Dados Usando Java.
 - [Projeto 2](https://github.com/KaiqueMendess/ProjetosKaique/blob/main/Jogo%206%20KM.zip): Criação de Game usando Javascript/CSS e html.
-- [Projeto 3](https://github.com/KaiqueMendess/ProjetosKaique/blob/main/NETFLIX2.zip): Criação Do visual da netflx com sistema de login e cadastro - Feito Com JavaScript/CSS/HTML/PHP.
+- [Projeto 3](https://github.com/KaiqueMendess/ProjetosKaique/blob/main/NETFLIX2.zip): Criação Do visual da netflix com sistema de login e cadastro - Feito Com JavaScript/CSS/HTML/PHP.
 
 ## 🏆 Certificados e Conquistas
 
-- [Certificado 1](https://dio.me/certificate/4B7454D7/share): Certificado De Desenvolvedor WEB .
-- [Certificado 2](https://dio.me/certificate/8C8F1DE2/share): Certificado De Desenvolvimentos De Jogos WEB Usando HTML/CSS/Javascript
+- [Certificado 1](https://dio.me/certificate/4B7454D7/share): Certificado De Desenvolvedor WEB.
+- [Certificado 2](https://dio.me/certificate/8C8F1DE2/share): Certificado De Desenvolvimento De Jogos WEB Usando HTML/CSS/Javascript.
 - [Certificado 3](https://dio.me/certificate/WHPI0PW5/share): Aprendendo a desenvolver sistema com Python.
 
 ## 📚 Linguagens e Ferramentas
