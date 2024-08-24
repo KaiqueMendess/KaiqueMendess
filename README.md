@@ -40,11 +40,15 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
   - [Clone da Netflix](https://github.com/KaiqueMendess/Netflix-Clone): Clone da Netflix com sistema de login e cadastro, utilizando JavaScript, CSS, HTML e PHP.
 
 ## 📚 Linguagens e Ferramentas
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/-HTML-000?&logo=html5" alt="HTML" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-HTML-000?&logo=html5" alt="HTML" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+</p>
+
 
 ## 🐍 Contribuições
 <p align="center">
