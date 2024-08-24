@@ -24,9 +24,10 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
 
 ## 📊 Estatísticas do GitHub e Linguagens Mais Usadas 📈 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaiqueMendess&theme=radical&show_icons=true&icon_color=ff79c6&title_color=ff79c6&text_color=ffffff&bg_color=282a36" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&bg_color=282a36&title_color=ff79c6&text_color=ffffff" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaiqueMendess&theme=dark&show_icons=true&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff" alt="Most Used Languages" width="48%" />
 </p>
+
 
 ## 🏆 Conquistas
   - [Certificado de Desenvolvedor WEB](https://dio.me/certificate/4B7454D7/share)<br>
@@ -39,13 +40,11 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
   - [Clone da Netflix](https://github.com/KaiqueMendess/Netflix-Clone): Clone da Netflix com sistema de login e cadastro, utilizando JavaScript, CSS, HTML e PHP.
 
 ## 📚 Linguagens e Ferramentas
-<p align="center">
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" />
   <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" />
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" />
   <img src="https://img.shields.io/badge/-HTML-000?&logo=html5" alt="HTML" />
-</p>
 
 ## 🐍 Contribuições
 <p align="center">
@@ -56,7 +55,5 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
   - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kaique-mendes-813208186/)](https://www.linkedin.com/in/kaique-mendes-813208186/)
   - [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquemendesn10@gmail.com)](mailto:kaiquemendesn10@gmail.com)
   - [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/KaiqueM19220784)](https://x.com/KaiqueM19220784)
-
 ---
-
 Feito com ❤️ por Kaique Mendes
