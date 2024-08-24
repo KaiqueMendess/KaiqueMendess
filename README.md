@@ -17,9 +17,10 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
 
 ## 🐍 Linguagem Mais Estudadas
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%23FFD43B.svg?&style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" />
-  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" alt="JavaScript" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" style="border: 2px solid #ff79c6; border-radius: 8px; padding: 5px; margin: 5px;" />
 </p>
 
 ## 📊 Estatísticas do GitHub e Linguagens Mais Usadas 📈 
