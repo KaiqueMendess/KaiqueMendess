@@ -1,5 +1,5 @@
 # 🧑‍💻 Kaique Mendes
-![Profile Banner](https://steamuserimages-a.akamaihd.net/ugc/928171408584436449/E47C729FF31A3B34C260EC7BCC7FB577DCCD35C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))
+![Profile Banner](https://steamuserimages-a.akamaihd.net/ugc/928171408584436449/E47C729FF31A3B34C260EC7BCC7FB577DCCD35C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ## 🚀 About Me
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento em várias linguagens e adoro trabalhar com todo tipo de linguagem. Gosto de resolver problemas complexos e criar soluções eficientes e escaláveis.
