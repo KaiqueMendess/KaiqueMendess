@@ -22,14 +22,11 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
   <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" />
 </p>
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub e Linguagens Mais Usadas 📈 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaiqueMendess&theme=radical&show_icons=true&icon_color=ff79c6&title_color=ff79c6&text_color=ffffff&bg_color=282a36" alt="GitHub Stats" />
-</p>
-
-## 📈 Linguagens Mais Usadas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&bg_color=282a36&title_color=ff79c6&text_color=ffffff" alt="Most Used Languages" />
-
+</p>
 
 ## 🏆 Conquistas
   - [Certificado de Desenvolvedor WEB](https://dio.me/certificate/4B7454D7/share)<br>
