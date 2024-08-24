@@ -11,7 +11,7 @@
 ## 🔥 Meus Interesses
 ### Deenvolvimento De Jogos 
   Atualmente Desenvolvendo Jogos 3D com Enfase na Construção De Cenário e na programação Da Inteligência Artificial dos personagens.<br>
-### Deenvolvimento De Aplicativos e Sites
+### Desenvolvimento De Aplicativos e Sites
 Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em melhorar o conhecimento em várias plataformas.
   
 
@@ -32,11 +32,9 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
 
 
 ## 🏆 Conquistas
-<p align="center">
   - [Certificado de Desenvolvedor WEB](https://dio.me/certificate/4B7454D7/share)<br>
   - [Certificado de Desenvolvimento de Jogos WEB](https://dio.me/certificate/8C8F1DE2/share)<br>
   - [Certificado de Desenvolvimento com Python](https://dio.me/certificate/WHPI0PW5/share)
-</p>
 
 ## 🌟 Projetos Destaques
   - [Banco Digital](https://github.com/KaiqueMendess/Banco_Digital): Criação de um banco digital em Java com funcionalidades de depósito e saque.<br>
