@@ -18,6 +18,8 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
 ## 🐍 Linguagem Mais Estudadas
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%23FFD43B.svg?&style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java" alt="Java" />
+  <img src="https://img.shields.io/badge/-PHP-000?&logo=php" alt="PHP" />
 </p>
 
 ## 📊 Estatísticas do GitHub
@@ -26,9 +28,8 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
 </p>
 
 ## 📈 Linguagens Mais Usadas
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&bg_color=282a36&title_color=ff79c6&text_color=ffffff" alt="Most Used Languages" />
-</p>
+
 
 ## 🏆 Conquistas
 <p align="center">
