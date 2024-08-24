@@ -9,10 +9,13 @@
 </p>
 
 ## 🔥 Meus Interesses
-### Desenvolvimento De Jogos 
-  Atualmente Desenvolvendo Jogos 3D com Enfase na Construção De Cenário e na programação Da Inteligência Artificial dos personagens.<br>
-### Desenvolvimento De Aplicativos e Sites
-Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em melhorar o conhecimento em várias plataformas.
+
+### Desenvolvimento de Jogos
+Atualmente, estou focado em criar **Jogos 3D**, com ênfase na **construção de cenários** imersivos e na **programação da inteligência artificial** dos personagens. Busco sempre implementar novas mecânicas e melhorar a experiência do usuário.
+
+### Desenvolvimento de Aplicativos e Sites
+Estou desenvolvendo **sites modernos** utilizando as **tecnologias mais recentes** e **aplicativos** com foco em aprimorar meu conhecimento em diversas plataformas. Minha meta é criar soluções funcionais e inovadoras que atendam às necessidades do usuário.
+
   
 
 ## 🐍 Linguagem Mais Estudadas
