@@ -25,7 +25,7 @@ Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em
 ## 📊 Estatísticas do GitHub e Linguagens Mais Usadas 📈 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaiqueMendess&theme=dark&show_icons=true&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff" alt="Most Used Languages" width="38%" />
 </p>
 
 
