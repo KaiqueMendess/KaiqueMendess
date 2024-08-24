@@ -9,13 +9,13 @@
 </p>
 
 ## 🔥 Meus Interesses
-### Machine Learning
-<p align="center">
-  Atualmente aprendendo sobre Inteligência Artificial e Machine Learning.<br>
-  Trabalhando em: Projetos Privados.
-</p>
+### Deenvolvimento De Jogos 
+  Atualmente Desenvolvendo Jogos 3D com Enfase na Construção De Cenário e na programação Da Inteligência Artificial dos personagens.<br>
+### Deenvolvimento De Aplicativos e Sites
+Desenvolvendo Sites com as Tecnologias mais Recentes E Aplicativos com enfase em melhorar o conhecimento em várias plataformas.
+  
 
-## 🐍 Linguagem Mais Desejada
+## 🐍 Linguagem Mais Estudadas
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%23FFD43B.svg?&style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
 </p>
@@ -25,9 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KaiqueMendess&theme=radical&show_icons=true&icon_color=ff79c6&title_color=ff79c6&text_color=ffffff&bg_color=282a36" alt="GitHub Stats" />
 </p>
 
-## 📈 Contribuições e Linguagens
+## 📈 Linguagens Mais Usadas
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=KaiqueMendess&bg_color=282a36&color=ffffff&line=ff79c6&point=44475a&area=true&hide_border=true" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueMendess&layout=compact&bg_color=282a36&title_color=ff79c6&text_color=ffffff" alt="Most Used Languages" />
 </p>
 
@@ -39,11 +38,9 @@
 </p>
 
 ## 🌟 Projetos Destaques
-<p align="center">
   - [Banco Digital](https://github.com/KaiqueMendess/Banco_Digital): Criação de um banco digital em Java com funcionalidades de depósito e saque.<br>
   - [Interface de Jogos](https://github.com/KaiqueMendess/Games-Kaique): Interface para jogos desenvolvidos por mim usando HTML, CSS e JavaScript.<br>
   - [Clone da Netflix](https://github.com/KaiqueMendess/Netflix-Clone): Clone da Netflix com sistema de login e cadastro, utilizando JavaScript, CSS, HTML e PHP.
-</p>
 
 ## 📚 Linguagens e Ferramentas
 <p align="center">
@@ -60,11 +57,9 @@
 </p>
 
 ## 📫 Como me Encontrar
-<p align="center">
   - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kaique-mendes-813208186/)](https://www.linkedin.com/in/kaique-mendes-813208186/)
   - [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquemendesn10@gmail.com)](mailto:kaiquemendesn10@gmail.com)
   - [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/KaiqueM19220784)](https://x.com/KaiqueM19220784)
-</p>
 
 ---
 
