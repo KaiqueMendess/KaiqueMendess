@@ -1,6 +1,5 @@
 # 🧑‍💻 Kaique Mendes
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Your+Custom+Banner+Here)
 
 ## 🚀 About Me
 Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento em várias linguagens e adoro trabalhar com todo tipo de linguagem. Gosto de resolver problemas complexos e criar soluções eficientes e escaláveis.
