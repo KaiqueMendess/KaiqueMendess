@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre Mim
 <p align="center">
-  Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Tenho experiência em diversas linguagens e adoro trabalhar em projetos desafiadores. Estou sempre em busca de novas oportunidades para aprender e crescer na área de desenvolvimento.
+ Desenvolvedor de software dedicado a inovar e resolver problemas complexos. Amante de jogos e novas tecnologias, sempre em busca de novos desafios e aprendizados.
 </p>
 
 ## 🔥 Meus Interesses
